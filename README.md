@@ -1,25 +1,25 @@
-# 🌍 World Clock
+# 🌍 # Analog Clock
 
-A simple World Clock application built using **HTML, CSS, and JavaScript** that displays the current time and date in real-time.
+A simple and responsive Analog Clock built using HTML, CSS, and JavaScript. The clock displays the current time in real-time with smoothly moving hour, minute, and second hands.
 
-## 🚀 Features
+## Features
 
-* Real-time clock updates every second
-* Displays current date and time
-* Clean and responsive user interface
-* Built with pure HTML, CSS, and JavaScript
-* Lightweight and easy to use
+- Real-time clock updates
+- Responsive design
+- Smooth hand movement
+- Clean and modern user interface
+- Built with pure HTML, CSS, and JavaScript
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-## 📂 Project Structure
+## Project Structure
 
-```text
-world-clock/
+```
+Analog-Clock/
 │
 ├── index.html
 ├── style.css
@@ -27,41 +27,41 @@ world-clock/
 └── README.md
 ```
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/joshihrithik8287-pixel/world-clock.git
+git clone https://github.com/joshihrithik8287-pixel/analog-clock.git
 ```
 
 2. Open the project folder.
 
-3. Run `index.html` in your browser.
+3. Open `index.html` in your browser.
 
-## 📸 Screenshot
+## Learning Outcomes
 
-Add a screenshot of your project here:
+This project helped me practice:
 
-```text
-screenshot.png
-```
+- HTML structure and layout
+- CSS styling and positioning
+- JavaScript DOM manipulation
+- Working with Date and Time objects
+- Creating dynamic user interfaces
 
-## 🎯 Purpose
+## Future Improvements
 
-This project was created to practice:
+- Dark/Light mode toggle
+- Multiple clock themes
+- Time zone support
+- Digital clock display option
 
-* JavaScript Date Object
-* DOM Manipulation
-* CSS Styling
-* Real-time Updates
-
-## 👨‍💻 Author
+## Author
 
 **Hrithik Joshi**
 
 GitHub: https://github.com/joshihrithik8287-pixel
 
-## 📄 License
+---
 
-This project is open source and available under the MIT License.
+⭐ If you like this project, consider giving it a star on GitHub.
